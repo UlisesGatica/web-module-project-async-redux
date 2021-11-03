@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background: radial-gradient(circle at 10% 90%, #1f005c, #48005f, #680060, #830060, #9c155f, #b22c5e, #c5415d, #d5585c, #e36e5c, #ef865e, #f89d63, #ffb56b);
+}
+
+.pokemon-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 3%;
+ 
+}
+.card{
+  width: 33%;
+}
